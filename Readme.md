@@ -1,3 +1,3 @@
 # Hi, I am Argen
 
-### Go to school
+### Let's go
